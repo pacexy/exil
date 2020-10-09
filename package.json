@@ -1,0 +1,20 @@
+{
+  "name": "exil",
+  "version": "0.0.1",
+  "description": "Exil is a renderless component library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pacexy/exil.git"
+  },
+  "keywords": ["exil", "renderless", "component"],
+  "author": "pacexy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pacexy/exil/issues"
+  },
+  "homepage": "https://github.com/pacexy/exil#readme"
+}
